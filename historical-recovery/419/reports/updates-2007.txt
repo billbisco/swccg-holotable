@@ -1,0 +1,36 @@
+The Holotable - SWCCG online! Home What is Holotable? Forums Downloads & Links Interim Updates FAQ Tutorial Holotable readme Contact/About us Player's Committee Hosting by TheForce.net Interim Updates This page exists to provide a central location for interim updates to card image files and/or 
+        the CDFs.  That way, people will be able to quickly see what they need to do to get as up to 
+        date as possible.  The changes listed here will be incorporated into each new release of the 
+        corresponding installer, soon after which whatever is listed here will be removed. Corrected large images should be saved to the following directory: <Holotable installation directory>\cards\starwars\<set name>\large\ Reedit and V12 image fixes There were several corrections that needed to be made to large card images in the virtual card reedit and 
+        Virtual Set 12.  These are Leia (Virtual Set 3), Tarkin (Virtual Set 3), Debnoli (Virtual Set 12), Mara Jade, The Emperor's Hand (Virtual Set 12).
+        Leia and Tarkin had preliminary text on them, and Debnoli and Mara Jade had the original preview version 
+        (white bordered) on them. Daultay Dofine The V12 Daultay Dofine erroneously used Captain Daultay Dofine (Theed Palace) instead of Daultay Dofine 
+        (Coruscant).  This extended to the CDF as well; you can download the corrected version if you got the V12 update before the corrections were made.  Note that the large image 
+        installers DO NOT include this image.  The Dark Side CDF needs to be 
+        saved as well, and you'd have to change the name of the small image appropriately.  The easiest thing to do 
+        is download the V12 update again... Note: The following updates are obsolete as of the large image installer which includes V12 cards.  They 
+        are here so that anyone who has downloaded the large images before the V12 installer can 
+        get these corrected images without downloading the whole thing. I've Lost Artoo The large image for I've Lost Artoo (Dark, Virtual Set 11) had the text for the re-edit version of I Want That 
+        Ship.  The corrected version should be saved over the old one. Tusken Breath Mask The large image for Tusken Breath Mask (Light, Virtual Set 8) was slightly funny looking when compared 
+        to the rest of the re-edit cards.  The corrected version should 
+        be saved over the old one. Chewie's AT-ST The large image for Chewie's AT-ST (Light, Virtual Set 9) had the text for the original non-virtual version of 
+        the card instead of the re-edit text.  The corrected version should 
+        be saved over the old one. Redux CDFs Finally, the updated CDFs from the virtual card redux are 
+        available. June 12, 2006 errata The updated virtual card errata are reflected in the images in this 
+        download .  The 13 cards should be saved over the old images in the appropriate directories.  You'll 
+        have to decompress the .zip file and then copy the files to the correct places.  You may download a 
+        slightly-updated version of Holotable 0.7.2 that will not draw over 
+        the "Errata 6/12/2006" on the left sides of these cards (the "official" 0.7.2 will do this, so get the 
+        updated one from that link if that will annoy you). Den Of Thieves This large image for Den Of Thieves (Dark, Virtual Set 8) incorporates the errata for the card.
+        The corrected version should be saved over the old one. The Time For Our Attack Has Come The large image for The Time For Our Attack Has Come (Light, Virtual Set 8) incorrectly 
+        indicated that the card is an Effect; it is actually an Immediate Effect.  The PC's virtual 
+        card PDF is still incorrect in the Premium version.  This corrected version should be saved over the 
+        old one. Note: The following updates are obsolete as of the large image installer which includes V11 cards.  They 
+        are here so that anyone who has downloaded the large images before the V11 installer can 
+        get these corrected images without downloading the whole thing. Virtual Card errata The large images of the five virtual cards errataed by the PC in November are available. I Wonder Who They Found (Light V9) All Wrapped Up (Dark V8) Hutt Bounty (Dark V8) Jabba's Influence (Dark V6) URoRRuR'R'R (Dark V8) Tatooine: City Outskirts (light) The large image of Tatooine: City Outskirts (light) was not rotated correctly.  The corrected version should be saved over the 
+        old one. Note: The following updates are obsolete as of the large image installer which includes V10 cards.  They 
+        are here so that anyone who has downloaded the large images before the V10 installer can 
+        get these corrected images without downloading the whole thing. Han's Heavy Blaster Pistol (V) The large image of Han's Heavy Blaster Pistol (V) was created with a now-outdated PDF file.  The corrected version should be saved over the 
+        old one. Leia (V) The large image of Leia (V) was created with a now-outdated PDF file.  The corrected version should be saved over the old one. Coruscant: Jedi Council Chamber The large image of Coruscant: Jedi Council Chamber was sized incorrectly.  It is now fixed, but it 
+        is smaller than other locations because Decipher only released this size.  The corrected version should be saved over the old one. Naboo: Battle Plains (dark) The large image of Naboo: Battle Plains (dark) was sized incorrectly.  It is now fixed, but it 
+        is smaller than other locations because Decipher only released this size.  The corrected version should be saved over the old one. Maul's Double-Bladed Lightsaber The large image of Naboo: Battle Plains (dark) was sized incorrectly.  It is now fixed; the corrected version should be saved over the old one. Current versions Holotable: 0.8.2 Holodeck: 0.3.2 Most recently uploaded: Holotable 0.8.2 update (367) Virtual Set 13+ (388) Holotable 0.8.1 update (1390) Linux Holotable 0.8.1 update (88) Large images (through V12) (1448) Linux large images (through V12) (64) Linux small images (through V12) (56) V12 Update (559) Linux V12 Update (30) Virtual card re-edit (375) Linux virtual card re-edit (19) Central game server: Logged on: elvenpilgrim Playing a game: www.holotable.com © 2005-2007 Hosting by TheForce.net All rights to intellectual property, images, etc. remain with their respective owners. Report website problems .

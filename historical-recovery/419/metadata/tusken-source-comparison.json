@@ -1,0 +1,20 @@
+[
+  {
+    "source": "pc-archive",
+    "path": "work\\holotable\\archives\\pc-original-faces\\v8__ls__tuskenbreathmask.gif",
+    "sha256": "dda5b09951cb2120b71c4693b8338460f844d55c39aa7cf1c6cf4e942556b264",
+    "bytes": 121330
+  },
+  {
+    "source": "holotable-v17",
+    "path": "work\\holotable\\distributions\\large-v17-virtual\\cards\\starwars\\Virtual8-Light\\large\\tuskenbreathmask.gif",
+    "sha256": "a2651c9a9825b48ebc6659b76103783df2f11e3ce458917478d00dbdc7a2881c",
+    "bytes": 128136
+  },
+  {
+    "source": "vkit-legacy",
+    "path": "work\\holotable\\forums-git\\vkit-recovered\\public\\images\\vslips\\virtual8-light\\tuskenbreathmask.png",
+    "sha256": "a0046786f6dc092174a436bb231f76d9c629920b649b697943d00bcbb1607a1f",
+    "bytes": 104096
+  }
+]

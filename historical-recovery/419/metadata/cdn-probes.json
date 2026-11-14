@@ -1,0 +1,138 @@
+[
+  {
+    "id": 3,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-0.3.1_install_images.exe",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 11,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-0.4.0_install.exe",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 15,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-0.4.1_install.exe",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 23,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-0.5.0_install.exe",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 33,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-0.5.4_install.exe",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 42,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-0.6.0_install.exe",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 52,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-0.7.0_install.exe",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 54,
+    "url": "https://res.starwarsccg.org/holotable/linux/holotable-0.7.0_install_linux.tar.bz2",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 67,
+    "url": "https://res.starwarsccg.org/holotable/linux/holotable-0.8.0_install_linux.tar.bz2",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 69,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-0.8.0_install.exe",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 77,
+    "url": "https://res.starwarsccg.org/holotable/linux/holotable-0.8.1_update_linux.tar.bz2",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 89,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-0.8.2_install.exe",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 95,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-0.8.2_v16_install.exe",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 99,
+    "url": "https://res.starwarsccg.org/holotable/linux/holotable-0.8.2_v16_install_linux.tar.bz2",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 100,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-errata_update.exe",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 101,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-v17_update.exe",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 102,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-0.8.3_install.exe",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 104,
+    "url": "https://res.starwarsccg.org/holotable/linux/holotable-v17plus_update_linux.tar.bz2",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 105,
+    "url": "https://res.starwarsccg.org/holotable/linux/holotable-small_images_through_v17.tar.bz2",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 106,
+    "url": "https://res.starwarsccg.org/holotable/linux/holotable-large_images_through_v17.tar.bz2",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": 109,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-large_images_through_v17.exe",
+    "status": 200,
+    "bytes": "273514374",
+    "mtime": "Mon, 08 Mar 2021 14:10:32 GMT"
+  },
+  {
+    "id": 110,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-reflectionsiv_revolution_update.exe",
+    "status": 200,
+    "bytes": "50000589",
+    "mtime": "Mon, 08 Mar 2021 14:10:31 GMT"
+  },
+  {
+    "id": 115,
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-large_images_through_v18.exe",
+    "status": 200,
+    "bytes": "286840457",
+    "mtime": "Wed, 10 Mar 2021 13:52:46 GMT"
+  },
+  {
+    "id": 119,
+    "url": "https://res.starwarsccg.org/holotable/linux/holotable-large_images_through_v18.tar.bz2",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "hansheavyblasterpistol.gif",
+    "url": "http://www.holotable.com/download/hansheavyblasterpistol.gif",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "leia.gif",
+    "url": "http://www.holotable.com/download/leia.gif",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

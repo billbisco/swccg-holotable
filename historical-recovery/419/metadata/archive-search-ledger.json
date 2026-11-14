@@ -1,0 +1,152 @@
+[
+  {
+    "key": "cdx-all",
+    "source": "https://web.archive.org/cdx/search/cdx?url=holotable.com/*&output=json&filter=statuscode:200&collapse=urlkey&limit=20000",
+    "url": "https://web.archive.org/cdx/search/cdx?url=holotable.com/*&output=json&filter=statuscode:200&collapse=urlkey&limit=20000",
+    "status": 200,
+    "bytes": 34043,
+    "seconds": 33.2
+  },
+  {
+    "key": "cdx-download",
+    "source": "https://web.archive.org/cdx/search/cdx?url=holotable.com/download/*&output=json&collapse=urlkey&limit=20000",
+    "url": "https://web.archive.org/cdx/search/cdx?url=holotable.com/download/*&output=json&collapse=urlkey&limit=20000",
+    "status": 200,
+    "bytes": 12135,
+    "seconds": 16.6
+  },
+  {
+    "key": "downloads-2007",
+    "source": "https://web.archive.org/web/20070211033040id_/http://www.holotable.com:80/downloads.php",
+    "url": "https://web.archive.org/web/20070211033040id_/http://www.holotable.com:80/downloads.php",
+    "status": 429,
+    "bytes": 620,
+    "seconds": 1.9
+  },
+  {
+    "key": "downloads-2008",
+    "source": "https://web.archive.org/web/20080217154307id_/http://www.holotable.com:80/downloads.php",
+    "url": "https://web.archive.org/web/20080217154307id_/http://www.holotable.com:80/downloads.php",
+    "status": 429,
+    "bytes": 620,
+    "seconds": 1.5
+  },
+  {
+    "key": "downloads-2009",
+    "source": "https://web.archive.org/web/20090414045927id_/http://www.holotable.com:80/downloads.php",
+    "url": "https://web.archive.org/web/20090414045927id_/http://www.holotable.com:80/downloads.php",
+    "status": 429,
+    "bytes": 620,
+    "seconds": 1.5
+  },
+  {
+    "key": "oldnews-2007",
+    "source": "https://web.archive.org/web/20071124031903id_/http://www.holotable.com:80/oldnews.php",
+    "url": "https://web.archive.org/web/20071124031903id_/http://www.holotable.com:80/oldnews.php",
+    "status": 200,
+    "bytes": 52883,
+    "seconds": 2.5
+  },
+  {
+    "key": "cdx-swccgpc-virtual",
+    "url": "https://web.archive.org/cdx/search/cdx?url=swccgpc.com/*&output=json&filter=statuscode:200&filter=original:.*[Vv]irtual.*&collapse=urlkey&to=20091231&limit=10000",
+    "final": "https://web.archive.org/cdx/search/cdx?url=swccgpc.com/*&output=json&filter=statuscode:200&filter=original:.*%5BVv%5Dirtual.*&collapse=urlkey&to=20091231&limit=10000",
+    "status": 200,
+    "bytes": 47671
+  },
+  {
+    "key": "cdx-swccgpc-gif",
+    "url": "https://web.archive.org/cdx/search/cdx?url=swccgpc.com/*&output=json&filter=statuscode:200&filter=mimetype:image/gif&collapse=urlkey&to=20091231&limit=10000",
+    "final": "https://web.archive.org/cdx/search/cdx?url=swccgpc.com/*&output=json&filter=statuscode:200&filter=mimetype:image/gif&collapse=urlkey&to=20091231&limit=10000",
+    "status": 200,
+    "bytes": 483508
+  },
+  {
+    "key": "updates-2007",
+    "url": "https://web.archive.org/web/20071124041653id_/http://www.holotable.com:80/updates.php",
+    "final": "https://web.archive.org/web/20071124041653id_/http://www.holotable.com:80/updates.php",
+    "status": 200,
+    "bytes": 14063
+  },
+  {
+    "key": "downloads-2007-retry",
+    "url": "https://web.archive.org/web/20070211033040id_/http://www.holotable.com/downloads.php",
+    "final": "https://web.archive.org/web/20070211033040id_/http://www.holotable.com/downloads.php",
+    "status": 429,
+    "bytes": 620
+  },
+  {
+    "key": "downloads-2009-retry",
+    "url": "https://web.archive.org/web/20090414045927id_/http://www.holotable.com/downloads.php",
+    "final": "https://web.archive.org/web/20090414045927id_/http://www.holotable.com/downloads.php",
+    "status": 429,
+    "bytes": 620
+  },
+  {
+    "key": "cdx-tfn-zip",
+    "url": "https://web.archive.org/cdx/search/cdx?url=theforce.net/*&output=json&filter=statuscode:200&filter=original:.*[Hh]olo.*&collapse=urlkey&limit=10000",
+    "final": "https://web.archive.org/cdx/search/cdx?url=theforce.net/*&output=json&filter=statuscode:200&filter=original:.*%5BHh%5Dolo.*&collapse=urlkey&limit=10000",
+    "status": 502,
+    "bytes": 107
+  },
+  {
+    "kind": "Archive.org advancedsearch",
+    "response_file": "ia-search.txt",
+    "query": "holotable",
+    "num_found": 4,
+    "disposition": "No indexed Holotable software pack identified; software/data candidates inspected separately."
+  },
+  {
+    "kind": "Archive.org advancedsearch",
+    "response_file": "ia-swccg.json",
+    "query": "swccg",
+    "num_found": 254,
+    "disposition": "No indexed Holotable software pack identified; software/data candidates inspected separately."
+  },
+  {
+    "kind": "Archive.org advancedsearch",
+    "response_file": "ia-starwarsccg.json",
+    "query": "&quot;star wars ccg&quot;",
+    "num_found": 307,
+    "disposition": "No indexed Holotable software pack identified; software/data candidates inspected separately."
+  },
+  {
+    "kind": "Archive.org advancedsearch",
+    "response_file": "ia-holodeck.json",
+    "query": "holodeck AND (swccg OR starwarsccg OR &quot;card game&quot;)",
+    "num_found": 5,
+    "disposition": "No indexed Holotable software pack identified; software/data candidates inspected separately."
+  },
+  {
+    "kind": "Archive.org advancedsearch",
+    "response_file": "ia-software.json",
+    "query": "(swccg OR &quot;star wars ccg&quot; OR holotable OR starwarsccg) AND (mediatype:software OR mediatype:data)",
+    "num_found": 10,
+    "disposition": "No indexed Holotable software pack identified; software/data candidates inspected separately."
+  },
+  {
+    "kind": "Archive.org advancedsearch",
+    "response_file": "ia-scan.json",
+    "query": "title:(&quot;Star Wars Customizable&quot; OR &quot;Star Wars Collectible&quot;)",
+    "num_found": 1,
+    "disposition": "No indexed Holotable software pack identified; software/data candidates inspected separately."
+  },
+  {
+    "kind": "Archive.org candidate payload",
+    "candidate": "yahoo-groups-2015-10-23T05-57-19Z-fge8fk.cdx.gz",
+    "status": 401,
+    "disposition": "Metadata accessible but underlying historical Yahoo-group payload requires authorization. No private messages fetched."
+  },
+  {
+    "kind": "Archive.org candidate payload",
+    "candidate": "dc-starwarsccg.CqzSRZZ.warc.gz",
+    "status": 401,
+    "disposition": "Metadata accessible but underlying historical Yahoo-group payload requires authorization. No private messages fetched."
+  },
+  {
+    "kind": "priority retry after cooldown",
+    "file": "priority-retry.json",
+    "status": 429,
+    "disposition": "Wayback bottraffic throttle persists; no repeated bulk batch attempted."
+  }
+]

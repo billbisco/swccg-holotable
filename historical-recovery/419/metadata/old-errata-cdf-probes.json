@@ -1,0 +1,34 @@
+[
+  {
+    "url": "http://www.holotable.com/download/downloads/reduxcdfs.zip",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "http://www.holotable.com/download/reduxcdfs.zip",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://res.starwarsccg.org/holotable/reduxcdfs.zip",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://res.starwarsccg.org/holotable/windows/reduxcdfs.zip",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "http://www.holotable.com/download/downloads/june06errata.zip",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "http://www.holotable.com/download/june06errata.zip",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://res.starwarsccg.org/holotable/june06errata.zip",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://res.starwarsccg.org/holotable/windows/june06errata.zip",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]
