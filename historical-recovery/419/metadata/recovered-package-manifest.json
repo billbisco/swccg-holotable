@@ -1,0 +1,34 @@
+[
+  {
+    "package": "small-V17",
+    "url": "http://www.holotable.com/download/index.php?ACT=dl&id=105",
+    "bytes": 16818910,
+    "sha256": "222f1b0d4f021ccc69b95bfe7b10605ad89c8dc8fa9d8ae0d954f3fbfc071288",
+    "retrieved_utc": "2026-11-14",
+    "role": "Recovered original package; package title does not certify individual card state"
+  },
+  {
+    "package": "large-V17",
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-large_images_through_v17.exe",
+    "bytes": 273514374,
+    "sha256": "abebf8a70b46d5890f68b5aa93acf43532562483ea7cee99f12dd7661cd8de31",
+    "retrieved_utc": "2026-11-14",
+    "role": "Recovered original package; package title does not certify individual card state"
+  },
+  {
+    "package": "large-V18-mixed-transition",
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-large_images_through_v18.exe",
+    "bytes": 286840457,
+    "sha256": "04db2b65598048add8b219b2bfad4f68464b7ba8edae98b0d670f1afdd258335",
+    "retrieved_utc": "2026-11-14",
+    "role": "Recovered original package; package title does not certify individual card state"
+  },
+  {
+    "package": "revolution-update-mixed-transition",
+    "url": "https://res.starwarsccg.org/holotable/windows/holotable-reflectionsiv_revolution_update.exe",
+    "bytes": 50000589,
+    "sha256": "728640aa3a2ae24452f75c85c04eeb1c7bc9faf8b6a600d5d9280d49f274d434",
+    "retrieved_utc": "2026-11-14",
+    "role": "Recovered original package; package title does not certify individual card state"
+  }
+]
